@@ -8,3 +8,5 @@ Gli argomenti che saranno trattati saranno:
 - Infine imparerai come descrivere attributi delle immagini, come punti di riferimento, gente famosa o dei brand
 
 Alla fine del corso sarai in grado di usare facilmente Computer Vision nella tua applicazione
+
+> github repository del corso: https://github.com/axel-sirota/getting-started-azure-computer-vision
