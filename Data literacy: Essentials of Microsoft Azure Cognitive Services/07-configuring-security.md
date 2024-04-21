@@ -18,4 +18,4 @@ Ogni cognitive service è messo a disposizione con 2 keys, questo permette di po
 
 ## Secure Cognitive Services usando Azure VNET
 
-Azure Cognitive Services fornisce un layer di sicurezza aggiuntivo, una volta specificati i vostri Cognitive Services saranno accessibili soltanto tramite uno specifico sottoinsieme di reti
+Azure Cognitive Services fornisce un layer di sicurezza aggiuntivo, una volta specificati i vostri Cognitive Services saranno accessibili soltanto tramite uno specifico sottoinsieme di reti tramite il request filtering dando il permesso solo a richieste che arrivano da determinati ip, range di ip o da una lista di sottoreti in Azure Virtual Networks (VNETs)
